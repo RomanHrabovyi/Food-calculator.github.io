@@ -1,6 +1,10 @@
 window.addEventListener('DOMContentLoaded', () => {
 
+<<<<<<< HEAD
     //Tabs
+=======
+    ////Tabs
+>>>>>>> master
 
     const tabs = document.querySelectorAll('.tabheader__item'),
           tabContent = document.querySelectorAll('.tabcontent'),
@@ -41,7 +45,11 @@ window.addEventListener('DOMContentLoaded', () => {
 
     //Timer
 
+<<<<<<< HEAD
     const deadline = '2024-06-30';
+=======
+    const deadline = '2024-07-30';
+>>>>>>> master
 
     function getTimeRemaining(endtime) {
         let days,hours,minutes,seconds
